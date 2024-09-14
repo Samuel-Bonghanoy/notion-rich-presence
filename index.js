@@ -12,6 +12,8 @@ rpc.on('ready', () => {
     largeImageText: 'Notion',
   });
   console.log('Notion rich presence is running');
+  console.log('Notion rich presence is running');
+  console.log('Notion rich presence is running');
 });
 
 rpc.login({
